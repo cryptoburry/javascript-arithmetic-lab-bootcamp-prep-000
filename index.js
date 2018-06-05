@@ -14,6 +14,7 @@ function divide(a,b){
   return a/b;
 }
 
+<<<<<<< HEAD
 function inc(a){
   return ++a;
 }
@@ -29,3 +30,8 @@ function makeInt(a){
 function preserveDecimal(a){
   return parseFloat(a);
 }
+=======
+function inc(number){
+  return number += 1;
+}
+>>>>>>> 1791ea784292f7755cf23b8a63ccb671c60b5181
